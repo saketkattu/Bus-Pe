@@ -66,6 +66,6 @@ Output :
 - The ticket is shown on the app which can be scanned by the conductor
 - <img src="demo/rzp2.png"> <img src="demo/rzp4.jpeg" height="820" width="350">
 - Scan by  Conductor to validate the app
-- <img src="demo/rzp2.png"> <img src="demo/rzp5.jpeg" height="820" width="350">
+- <img src="demo/rzp5.jpeg">
 
 
