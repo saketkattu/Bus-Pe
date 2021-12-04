@@ -60,9 +60,9 @@ Output :
 
 ## Modules Pictures
 - Customer Webapp to select routes and make the payment
-<img src="demo/rzp1.png"> <img src="demo/rzp3.png">
+- <img src="demo/rzp1.png"> <img src="demo/rzp3.png">
 - The ticket is shown on the app which can be scanned by the conductor
-<img src="demo/rzp2.png"> <img src="demo/rzp4.jpeg" height="820" width="400">
+- <img src="demo/rzp2.png"> <img src="demo/rzp4.jpeg" height="820" width="400">
 
 
 
