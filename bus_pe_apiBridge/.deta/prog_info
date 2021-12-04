@@ -1,0 +1,1 @@
+{"id":"0daf0227-7fec-427f-9c3e-afb4e9ccbc9e","space":11456,"runtime":"python3.9","name":"Geo-Hashing-API-using-FastAPI","path":"xfj4v2","project":"c0xzui0l","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","qrcode","uvicorn","deta","razorpay"],"envs":null,"public":true,"log_level":"debug","cron":""}

@@ -1,0 +1,6 @@
+fastapi
+qrcode
+uvicorn
+deta
+razorpay
+time
