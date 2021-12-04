@@ -1,4 +1,5 @@
 # BusPe
+## Secure Pay on the go
 
 - Paying with cash to buy tickets on the bus is a hassle for most people these days.
 - With the rise of UPI and other cashless modes of payment, our project focuses on a web app payment for buses with an app that can be used by the conductor to verify the authenticity
