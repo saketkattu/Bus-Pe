@@ -5,7 +5,8 @@
 - With the rise of UPI and other cashless modes of payment, our project focuses on a web app payment for buses with an app that can be used by the conductor to verify the authenticity
 
 # Modules :
-- ### Customer App (Webapp/android/IOS) : 
+
+- ### Customer App (Webapp/android/IOS) [demo](https://github.com/saketkattu/FTX-Hackathon-Submission---FTX-Hackathon-Submission---j3fsu2tura6j#modules-pictures:)
   - The user who rides the bus can select the route using our drop down menus.
   - The interface automatically calculates the price of the route
   - When user clicks on Pay, it opens up the RazorPay portal to make the payment
