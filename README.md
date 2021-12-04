@@ -6,7 +6,7 @@
 
 # Modules :
 
-- ### Customer App (Webapp/android/IOS) [demo](https://github.com/saketkattu/FTX-Hackathon-Submission---FTX-Hackathon-Submission---j3fsu2tura6j#modules-pictures:)
+- ### Customer App (Webapp/android/IOS) [demo Video](https://www.loom.com/embed/c6537f0a7a5047f7a9f77e381f264676)
   - The user who rides the bus can select the route using our drop down menus.
   - The interface automatically calculates the price of the route
   - When user clicks on Pay, it opens up the RazorPay portal to make the payment
